@@ -1,0 +1,2 @@
+# LPC11U35-Demo-Board
+LPC11U35FHI33/501: Up to 50MHz, 64kB Flash, 12kB SRAM, 4kB EEPROM, 26GPIO, USB device.
